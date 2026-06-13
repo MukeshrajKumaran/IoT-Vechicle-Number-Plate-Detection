@@ -101,7 +101,7 @@ Connect GPIO 0 to GND before flashing. Remove the jumper and press reset to run.
 ## Project Structure
 
 ```
-├── main.cpp      # Full firmware source
+├── main.ino      # Full firmware source
 └── README.md
 ```
 
